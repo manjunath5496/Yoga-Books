@@ -100,5 +100,21 @@
 
  <li><a target="_blank" href="https://github.com/manjunath5496/Yoga-Books/blob/master/yoga(61).pdf" style="text-decoration:none;">True Yoga: Practicing with the Yoga Sutras for Happiness and Spiritual Fulfillment</a></li>                              
  
+ <li><a target="_blank" href="https://github.com/manjunath5496/Yoga-Books/blob/master/yoga(62).pdf" style="text-decoration:none;"> Adiyogi: The Source of Yoga</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Yoga-Books/blob/master/yoga(63).pdf" style="text-decoration:none;">Aspects of Tantra Yoga</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Yoga-Books/blob/master/yoga(64).pdf" style="text-decoration:none;">Four Chapters on Freedom: Commentary on the Yoga Sutras of Sage Patanjali</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Yoga-Books/blob/master/yoga(65).pdf" style="text-decoration:none;">Lessons in Gnani Yoga (The Yoga of Wisdom)</a></li>  
+ 
+ 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Yoga-Books/blob/master/yoga(66).pdf" style="text-decoration:none;">The Language of Yoga: Complete A-to-Y Guide to Asana Names, Sanskrit Terms, and Chants [Bachman, Nicolai]</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Yoga-Books/blob/master/yoga(67).pdf" style="text-decoration:none;">Yoga for Singing</a></li>  
+ 
+ 
+ 
+ 
+ 
  
  </ul>
