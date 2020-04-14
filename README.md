@@ -67,4 +67,38 @@
 <li><a target="_blank" href="https://github.com/manjunath5496/Yoga-Books/blob/master/yoga(38).pdf" style="text-decoration:none;">Kundalini - The Secret of Yoga</a></li>
                             
  <li><a target="_blank" href="https://github.com/manjunath5496/Yoga-Books/blob/master/yoga(39).pdf" style="text-decoration:none;"> Everyday Yoga Meditation: Still Your Mind and Find Inner Peace Through the Transformative Power of Kriya Yoga</a></li>
+ 
+ 
+<li><a target="_blank" href="https://github.com/manjunath5496/Yoga-Books/blob/master/yoga(40).pdf" style="text-decoration:none;">yoga for kids</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Yoga-Books/blob/master/yoga(41).pdf" style="text-decoration:none;">The Encyclopedia of Yoga and Tantra: Over 2, 500 Entries on the History, Philosophy, and Practice </a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Yoga-Books/blob/master/yoga(42).pdf" style="text-decoration:none;">Yoga Therapy for Stroke</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Yoga-Books/blob/master/yoga(43).pdf" style="text-decoration:none;">Solutions to I E Irodov's Problems in General Physics, Vol.2</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Yoga-Books/blob/master/yoga(44).pdf" style="text-decoration:none;"> Yoga and Scoliosis: A Journey to Health and Healing</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Yoga-Books/blob/master/yoga(45).pdf" style="text-decoration:none;">Yoga on the Ball</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Yoga-Books/blob/master/yoga(46).pdf" style="text-decoration:none;">AP Physics C – Practice Workbook – Book 1, Mechanics</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Yoga-Books/blob/master/yoga(47).pdf" style="text-decoration:none;">Layayoga: The Definitive Guide to the Chakras and Kundalini</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Yoga-Books/blob/master/yoga(48).pdf" style="text-decoration:none;">Advanced Hatha Yoga: Classic Methods of Physical Education and Concentration</a></li>  
+ 
+<li><a target="_blank" href="https://github.com/manjunath5496/Yoga-Books/blob/master/yoga(49).pdf" style="text-decoration:none;">The Yoga Sutras of Patanjali: Commentary on the Raja Yoga Sutras</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Yoga-Books/blob/master/yoga(50).pdf" style="text-decoration:none;">Oriental Yoga: Hatha and Taoist Yoga for the Seasons</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Yoga-Books/blob/master/yoga(51).pdf" style="text-decoration:none;">Supernormal: Science, Yoga, and the Evidence for Extraordinary Psychic Abilities</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Yoga-Books/blob/master/yoga(52).pdf" style="text-decoration:none;">Original Yoga: Rediscovering Traditional Practices of Hatha Yoga</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Yoga-Books/blob/master/yoga(53).pdf" style="text-decoration:none;">The Psychology of Kundalini Yoga</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Yoga-Books/blob/master/yoga(54).pdf" style="text-decoration:none;">The Chakras: Kundalini Yoga as taught by Yogi Bhajan</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Yoga-Books/blob/master/yoga(55).pdf" style="text-decoration:none;">Overcoming Trauma through Yoga: Reclaiming Your Body</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Yoga-Books/blob/master/yoga(56).pdf" style="text-decoration:none;">Yoga Nidra for Complete Relaxation and Stress Relief</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Yoga-Books/blob/master/yoga(57).pdf" style="text-decoration:none;">Yoga for the Creative Soul: Exploring the Five Paths of Yoga to Reclaim Your Expressive Spirit</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Yoga-Books/blob/master/yoga(58).pdf" style="text-decoration:none;">Physics Solutions Manual</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Yoga-Books/blob/master/yoga(59).pdf" style="text-decoration:none;">The Practice of Nada Yoga: Meditation on the Inner Sacred Sound</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Yoga-Books/blob/master/yoga(60).pdf" style="text-decoration:none;">NCERT Class 12: Physics</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Yoga-Books/blob/master/yoga(61).pdf" style="text-decoration:none;">True Yoga: Practicing with the Yoga Sutras for Happiness and Spiritual Fulfillment</a></li>                              
+ 
+ 
  </ul>
