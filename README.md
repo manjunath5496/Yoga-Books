@@ -96,7 +96,7 @@
 <li><a target="_blank" href="https://github.com/manjunath5496/Yoga-Books/blob/master/yoga(58).pdf" style="text-decoration:none;">Chakra Healing: A Beginner's Guide to Self-Healing Techniques that Balance the Chakras</a></li>                              
 <li><a target="_blank" href="https://github.com/manjunath5496/Yoga-Books/blob/master/yoga(59).pdf" style="text-decoration:none;">The Practice of Nada Yoga: Meditation on the Inner Sacred Sound</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Yoga-Books/blob/master/yoga(60).pdf" style="text-decoration:none;">NCERT Class 12: Physics</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Yoga-Books/blob/master/yoga(60).pdf" style="text-decoration:none;">Emotional Yoga: How the Body Can Heal the Mind</a></li>
 
  <li><a target="_blank" href="https://github.com/manjunath5496/Yoga-Books/blob/master/yoga(61).pdf" style="text-decoration:none;">True Yoga: Practicing with the Yoga Sutras for Happiness and Spiritual Fulfillment</a></li>                              
  
