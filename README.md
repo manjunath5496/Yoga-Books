@@ -1,38 +1,38 @@
 <ul>
 
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Yoga-Books/blob/master/yoga(1).pdf" style="text-decoration:none;">Cracking the SAT Physics Subject Test</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Yoga-Books/blob/master/yoga(1).pdf" style="text-decoration:none;">Kriya-yoga: The Science of Life-force</a></li>
                             
- <li><a target="_blank" href="https://github.com/manjunath5496/Yoga-Books/blob/master/yoga(2).pdf" style="text-decoration:none;">Understanding Physics: Electricity and Magnetism For JEE Main and Advanced</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Yoga-Books/blob/master/yoga(2).pdf" style="text-decoration:none;">The Complete Book of Vinyasa Yoga</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Yoga-Books/blob/master/yoga(3).pdf" style="text-decoration:none;">Principles of Physics</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Yoga-Books/blob/master/yoga(4).pdf" style="text-decoration:none;">Fundamentals of Physics</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Yoga-Books/blob/master/yoga(5).pdf" style="text-decoration:none;">Modern Physics</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Yoga-Books/blob/master/yoga(3).pdf" style="text-decoration:none;">Yoga Anatomy</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Yoga-Books/blob/master/yoga(4).pdf" style="text-decoration:none;">Ashtanga Yoga: Practice and Philosophy</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Yoga-Books/blob/master/yoga(5).pdf" style="text-decoration:none;">A Chair for Yoga: A complete guide to Iyengar Yoga practice with a chair</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Yoga-Books/blob/master/yoga(6).pdf" style="text-decoration:none;">CPO Focus on Physical Science</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Yoga-Books/blob/master/yoga(6).pdf" style="text-decoration:none;">Yoga for a Happy Back: A Teacher's Guide to Spinal Health through Yoga Therapy</a></li>
                             
- <li><a target="_blank" href="https://github.com/manjunath5496/Yoga-Books/blob/master/yoga(7).pdf" style="text-decoration:none;">Experiments in Physics</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Yoga-Books/blob/master/yoga(7).pdf" style="text-decoration:none;">Light on Yoga: The Bible of Modern Yoga</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Yoga-Books/blob/master/yoga(8).pdf" style="text-decoration:none;">Learn Electronics with Raspberry Pi: Physical Computing with Circuits, Sensors, Outputs, and Projects</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Yoga-Books/blob/master/yoga(9).pdf" style="text-decoration:none;">Instructor Solution Manual for Fundamentals of Physics</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Yoga-Books/blob/master/yoga(10).pdf" style="text-decoration:none;">Elements of Nuclear Physics</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Yoga-Books/blob/master/yoga(8).pdf" style="text-decoration:none;">Hatha Yoga Pradipika</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Yoga-Books/blob/master/yoga(9).pdf" style="text-decoration:none;">The Yoga of Herbs: An Ayurvedic Guide to Herbal Medicine</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Yoga-Books/blob/master/yoga(10).pdf" style="text-decoration:none;">Yoga Sequencing: Designing Transformative Yoga Classes</a></li>
 
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Yoga-Books/blob/master/yoga(11).pdf" style="text-decoration:none;">Introduction to Nuclear and Particle Physics</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Yoga-Books/blob/master/yoga(11).pdf" style="text-decoration:none;">Essential Yoga: An Illustrated Guide to Over 100 Yoga Poses and Meditations</a></li>
                             
- <li><a target="_blank" href="https://github.com/manjunath5496/Yoga-Books/blob/master/yoga(12).pdf" style="text-decoration:none;"> The Feynman Lectures on Physics</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Yoga-Books/blob/master/yoga(12).pdf" style="text-decoration:none;"> Yoga: The Top 100 Best Yoga Poses Relieve Stress, Increase Flexibility, and Gain Strength</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Yoga-Books/blob/master/yoga(13).pdf" style="text-decoration:none;"> Discussions on I E Irodov solutions Problems in General Physics</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Yoga-Books/blob/master/yoga(14).pdf" style="text-decoration:none;"> Physical Sciences Grade 11</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Yoga-Books/blob/master/yoga(15).pdf" style="text-decoration:none;">Understanding physics: Mechanics, part 2</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Yoga-Books/blob/master/yoga(13).pdf" style="text-decoration:none;"> Pick Your Yoga Practice</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Yoga-Books/blob/master/yoga(14).pdf" style="text-decoration:none;"> 101 essential tips : yoga</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Yoga-Books/blob/master/yoga(15).pdf" style="text-decoration:none;">The Yoga of Time Travel: How the Mind Can Defeat Time</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Yoga-Books/blob/master/yoga(16).pdf" style="text-decoration:none;">The Physics of Everyday Phenomena: A Conceptual Introduction to Physics</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Yoga-Books/blob/master/yoga(16).pdf" style="text-decoration:none;">The Science of Yoga</a></li>
                             
- <li><a target="_blank" href="https://github.com/manjunath5496/Yoga-Books/blob/master/yoga(17).pdf" style="text-decoration:none;">Conceptual Physics</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Yoga-Books/blob/master/yoga(17).pdf" style="text-decoration:none;">Iron Yoga: Combine Yoga and Strength Training for Weight Loss and Total Body Fitness</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Yoga-Books/blob/master/yoga(18).pdf" style="text-decoration:none;">Semiconductor Physics and Devices: Basic Principles</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Yoga-Books/blob/master/yoga(19).pdf" style="text-decoration:none;">Problems and Solutions on Quantum Mechanics</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Yoga-Books/blob/master/yoga(20).pdf" style="text-decoration:none;">Cambridge IGCSE Physics</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Yoga-Books/blob/master/yoga(18).pdf" style="text-decoration:none;">The Secrets Of Prana, Pranayama and Yoga Asanas</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Yoga-Books/blob/master/yoga(19).pdf" style="text-decoration:none;">Complete yoga workbook: a practical approach to healing common ailments with yoga</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Yoga-Books/blob/master/yoga(20).pdf" style="text-decoration:none;">Mudras for Modern Life: Boost your health, re-energize your life, enhance your yoga and deepen your meditation</a></li>
 
 
  <li><a target="_blank" href="https://github.com/manjunath5496/Yoga-Books/blob/master/yoga(21).pdf" style="text-decoration:none;">Introduction to Modern Optics</a></li>
