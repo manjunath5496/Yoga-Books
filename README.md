@@ -112,7 +112,7 @@
 
  <li><a target="_blank" href="https://github.com/manjunath5496/Yoga-Books/blob/master/yoga(67).pdf" style="text-decoration:none;">Yoga for Singing</a></li>  
  
- 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Yoga-Books/blob/master/yoga(68).pdf" style="text-decoration:none;">The Integrity of the Yoga Darsana: A Reconsideration of Classical Yoga</a></li> 
  
  
  
