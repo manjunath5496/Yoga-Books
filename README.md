@@ -93,7 +93,7 @@
  <li><a target="_blank" href="https://github.com/manjunath5496/Yoga-Books/blob/master/yoga(56).pdf" style="text-decoration:none;">Yoga Nidra for Complete Relaxation and Stress Relief</a></li>                              
 <li><a target="_blank" href="https://github.com/manjunath5496/Yoga-Books/blob/master/yoga(57).pdf" style="text-decoration:none;">Yoga for the Creative Soul: Exploring the Five Paths of Yoga to Reclaim Your Expressive Spirit</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Yoga-Books/blob/master/yoga(58).pdf" style="text-decoration:none;">Physics Solutions Manual</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Yoga-Books/blob/master/yoga(58).pdf" style="text-decoration:none;">Chakra Healing: A Beginner's Guide to Self-Healing Techniques that Balance the Chakras</a></li>                              
 <li><a target="_blank" href="https://github.com/manjunath5496/Yoga-Books/blob/master/yoga(59).pdf" style="text-decoration:none;">The Practice of Nada Yoga: Meditation on the Inner Sacred Sound</a></li>
 
 <li><a target="_blank" href="https://github.com/manjunath5496/Yoga-Books/blob/master/yoga(60).pdf" style="text-decoration:none;">NCERT Class 12: Physics</a></li>
