@@ -73,7 +73,7 @@
  <li><a target="_blank" href="https://github.com/manjunath5496/Yoga-Books/blob/master/yoga(41).pdf" style="text-decoration:none;">The Encyclopedia of Yoga and Tantra: Over 2, 500 Entries on the History, Philosophy, and Practice </a></li>                              
 <li><a target="_blank" href="https://github.com/manjunath5496/Yoga-Books/blob/master/yoga(42).pdf" style="text-decoration:none;">Yoga Therapy for Stroke</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Yoga-Books/blob/master/yoga(43).pdf" style="text-decoration:none;">Solutions to I E Irodov's Problems in General Physics, Vol.2</a></li>                              
+ <li><a target="_blank" href="https://github.com/manjunath5496/Yoga-Books/blob/master/yoga(43).pdf" style="text-decoration:none;">Karma-Yoga and Bhakti-Yoga</a></li>                              
 <li><a target="_blank" href="https://github.com/manjunath5496/Yoga-Books/blob/master/yoga(44).pdf" style="text-decoration:none;"> Yoga and Scoliosis: A Journey to Health and Healing</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Yoga-Books/blob/master/yoga(45).pdf" style="text-decoration:none;">Yoga on the Ball</a></li>
 
